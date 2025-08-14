@@ -1,0 +1,23 @@
+#main {
+  display: flex;
+  justify-content: center;
+}
+.circle {
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  background-color: red;
+}
+#container {
+  min-width: 225px;
+  width: 100%;
+  max-width: 300px;
+  min-height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  border: 1px solid #000;
+  border-radius: 4px;
+  padding: 4px 8px;
+}
