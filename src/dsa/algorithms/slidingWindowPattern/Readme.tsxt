@@ -1,0 +1,4 @@
+#Sliding Window Pattern
+
+This pattern involves creating a a group of data, it's like creating a subset of data ferom the original set of data. 
+It usually works wirth strings and arrays, where a subset of data can be either expanded or decreased and a new subset is created. 
